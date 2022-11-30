@@ -3,3 +3,8 @@
 /Assignment\ not\ 4
 *.png
 *.docx
+*.out
+Assignment\ 2/lab_02.c
+*.zip
+*Practice*/
+.vscode/
